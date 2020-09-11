@@ -1,6 +1,6 @@
 # Lauren Birts
 
-[Github](https://github.com/birts) | [LinkedIn](https://www.linkedin.com/in/lauren-birts) | Portfolio [https://www.laurenbirts.dev]
+[Github](https://github.com/birts) | [LinkedIn](https://www.linkedin.com/in/lauren-birts) | Portfolio[https://www.laurenbirts.dev]
 
 ## Objective 
 
