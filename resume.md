@@ -35,21 +35,21 @@ Used SVG’s to create animations to enhance user experience
 
 _Production Manager_	      
 
-  * Managed merchandise database, overseeing inventory control leading to 100% inventory accuracy
-  * Onboarded and managed staff; ensured development and on-going accountability 
+    * Managed merchandise database, overseeing inventory control leading to 100% inventory accuracy
+    * Onboarded and managed staff; ensured development and on-going accountability 
 
 * Verizon 	-  01/2019 - 04/2019
 
 _Health and Wellness Intern_     
 
-  * Researched and created educational materials, which 93% of clients said encouraged them to improve their health
-  * Assessed client’s lifestyles, barriers, and strengths through motivational interviewing to create personalized wellness plans
+    * Researched and created educational materials, which 93% of clients said encouraged them to improve their health
+    * Assessed client’s lifestyles, barriers, and strengths through motivational interviewing to create personalized wellness plans
 
 * Contemporary Management Concepts 	-  09/2017 - 12/2018
 
 _Leasing Agent_       
 
-  * Maintained a high closing rate, leading to a 97% occupancy rate
-  * Conducted market surveys to measure the impact of current marketing efforts  
+    * Maintained a high closing rate, leading to a 97% occupancy rate
+    * Conducted market surveys to measure the impact of current marketing efforts  
 
 
