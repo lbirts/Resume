@@ -31,21 +31,21 @@ Used SVG’s to create animations to enhance user experience
 
 ## Experience
 
-**Closet Freekz (Orlando, FL) 
+###Closet Freekz (Orlando, FL) 
 
   _Production Manager, 04/2019 - 03/2020_	      
 
     * Managed merchandise database, overseeing inventory control leading to 100% inventory accuracy
     * Onboarded and managed staff; ensured development and on-going accountability 
 
-**Verizon (Brooklyn, NY) 
+###Verizon (Brooklyn, NY) 
 
   _Health and Wellness Intern, 01/2019 - 04/2019_     
 
     * Researched and created educational materials, which 93% of clients said encouraged them to improve their health
     * Assessed client’s lifestyles, barriers, and strengths through motivational interviewing to create personalized wellness plans
 
-**Contemporary Management Concepts 	(Gainesville, FL)
+###Contemporary Management Concepts 	(Gainesville, FL)
 
   _Leasing Agent,  09/2017 - 12/2018_       
 
@@ -54,15 +54,15 @@ Used SVG’s to create animations to enhance user experience
     
 ## Education
 
-**Flatiron School (Houston, TX)
+###Flatiron School (Houston, TX)
 
 Full Stack Web Development, Ruby on Rails and JavaScript program 	04/2020 - 07/2020
 
-**Code Skool (Orlando, FL)
+###Code Skool (Orlando, FL)
 
 Full Stack Web Development, Javascript programming 	01/2020 - 03/2020
 
-**University of Florida	(Gainesville, FL)
+###University of Florida	(Gainesville, FL)
 
 Bachelor’s of Science in Health Education	
 
