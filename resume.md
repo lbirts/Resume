@@ -38,7 +38,7 @@ _Production Manager, 04/2019 - 03/2020_
   * Managed merchandise database, overseeing inventory control leading to 100% inventory accuracy
   * Onboarded and managed staff; ensured development and on-going accountability 
 
-** Verizon (Brooklyn, NY) 
+### Verizon (Brooklyn, NY) 
 
 _Health and Wellness Intern, 01/2019 - 04/2019_     
 
@@ -54,16 +54,16 @@ _Leasing Agent,  09/2017 - 12/2018_
     
 ## Education
 
-###Flatiron School (Houston, TX)
+### Flatiron School (Remote)
 
-Full Stack Web Development, Ruby on Rails and JavaScript program 	04/2020 - 07/2020
+_Software Engineer, 04/2020 - 07/2020_ 	
 
-###Code Skool (Orlando, FL)
+### Code Skool (Orlando, FL)
 
-Full Stack Web Development, Javascript programming 	01/2020 - 03/2020
+_Full Stack Web Development, 01/2020 - 03/2020_
 
-###University of Florida	(Gainesville, FL)
+### University of Florida	(Gainesville, FL)
 
-Bachelor’s of Science in Health Education	
+_Bachelor’s of Science in Health Education, 05/2019_
 
 
