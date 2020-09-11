@@ -32,6 +32,7 @@ Used SVG’s to create animations to enhance user experience
 ## Experience
 
 * Closet Freekz  -  04/2019 - 03/2020
+
 _Production Manager_	      
 
    * Managed merchandise database, overseeing inventory control leading to 100% inventory accuracy
